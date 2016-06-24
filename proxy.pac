@@ -67,6 +67,7 @@ function FindProxyForURL(url, host)
 		dnsDomainIs(host, ".sciencemag.org") ||
 		dnsDomainIs(host, ".currenthistory.com") ||
 		dnsDomainIs(host, "cms.math.ca") ||
+		dnsDomainIs(host, ".facebook.com") ||
 		dnsDomainIs(host, "charon.tjhsst.edu")
 
 
