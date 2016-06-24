@@ -58,7 +58,7 @@ function FindProxyForURL(url, host)
 		dnsDomainIs(host, "booksinprint.com") ||
 		dnsDomainIs(host, ".booksinprint.com") ||
 		dnsDomainIs(host, "booksinprint2.com") ||
-		dnsDomainIs(host, "ion.tjhsst.edu") ||
+		//dnsDomainIs(host, "ion.tjhsst.edu") ||
 		dnsDomainIs(host, ".booksinprint2.com") ||
 		dnsDomainIs(host, "whiv.alexanderstreet.com") ||
 		dnsDomainIs(host, ".ebrary.com") ||
